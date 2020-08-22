@@ -12,7 +12,7 @@ else{
 // Enter you terminal username and password and if you would like multi account compatibility you must change both the login page and the terminal.php file (this page)
 // Example: $USER = 'user'; $PASSWORD = 'password';
 $USER = 'root';
-$PASSWORD = 'password';
+$PASSWORD = 'sudowizard';
 
 // Multi-user credentials
 // Example: $ACCOUNTS = array('user1' => 'password1', 'user2' => 'password2');
