@@ -1,7 +1,7 @@
 <?php
 
-$username = "username";
-$password = "password";
+$username = "root";
+$password = "sudowizard";
 // Example: $USER = 'user'; $PASSWORD = 'password';
 if($_GET['username'] != $username or ($_GET['password'] != $password))
 {
